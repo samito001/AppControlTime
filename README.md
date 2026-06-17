@@ -5,6 +5,7 @@ para publicar una aplicacion .
 en la parte de Build and deployment elegir deploy from a branch
 luego selecciona el branch "MAIN" luego "root" y presiona el boton SAVE
 dentro de unos minutos se creara un link . por ejemplo "https://samito001.github.io/AppControlTime/"
+<img width="1239" height="767" alt="Screenshot 2026-06-17 160537" src="https://github.com/user-attachments/assets/eea21fc4-ca56-4475-a2e3-c81f148b6a4e" />
 
 3paso desde Visual Studio. cuando creas la publicacion en el campo ------ > "Direccion URl de la carpeta de instalacion(si es diferente a la anterior)"
 copias el link de github :https://samito001.github.io/AppControlTime/  . 
