@@ -19,6 +19,8 @@ Copiar solo el link en ese Campo
 * AppControlTime (es una aplication Manifest)
 * Setup (es el Instalador)
 * ESOS ARCHIVOS TIENES QUE ARRASTRASLOS AL REPOSITORIO DE GITHUB .  - ADD FILE  . -UPLOAD FILES (en ese espacio ARRASTRA) OJO =====>ARRASTRA
+* <img width="1518" height="803" alt="Screenshot 2026-06-17 160300" src="https://github.com/user-attachments/assets/67f259b9-cd13-499e-9173-a545af1dc4c4" />
+
 
 5to Paso ---> para instalar el programa descarga el ZIP desde GitHub 
 cuando tengas el ZIP. descomprimelo y ejecuta el SETUP(Instalador) para instalar la aplicacion
